@@ -13,7 +13,7 @@ It is a smart and attractive UI which shows hidden search engine build using htm
 
 ## Demo
 
-![](hidden(2).gif)
+![](1.gif)
 # Hi, I'm Deepak Kumar Kannaujiya ! 👋
 
 
